@@ -17,3 +17,4 @@ A modern, sleek, and responsive web application designed for learning Spanish, f
 
 ## 💾 Backend & Database
 - **Database & Auth:** Powered by Supabase for secure user authentication and managing interactive flashcards data persistence.
+- <video src="https://github.com/user-attachments/assets/cfa69313-5f1f-4898-9409-060156e8b2fe" controls width="100%"></video>
